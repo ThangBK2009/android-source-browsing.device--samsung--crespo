@@ -23,8 +23,8 @@
 source ../../../common/clear-factory-images-variables.sh
 PRODUCT=soju
 DEVICE=crespo
-BUILD=398337
-VERSION=jro03c
+BUILD=403059
+VERSION=jro03e
 SRCPREFIX=signed-
 RADIOSRC=radio.xx.img
 BOOTLOADER=i9020xxlc2
@@ -34,8 +34,8 @@ source ../../../common/generate-factory-images-common.sh
 source ../../../common/clear-factory-images-variables.sh
 PRODUCT=sojua
 DEVICE=crespo
-BUILD=398337
-VERSION=jro03c
+BUILD=403059
+VERSION=jro03e
 SRCPREFIX=signed-
 RADIOSRC=radio.uc.img
 BOOTLOADER=i9020xxlc2
