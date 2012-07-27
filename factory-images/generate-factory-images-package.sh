@@ -19,6 +19,7 @@
 # 367151 = IMM76M
 # 397360 = JRO02C
 # 398337 = JRO03C
+# 403059 = JRO03E
 
 source ../../../common/clear-factory-images-variables.sh
 PRODUCT=soju
