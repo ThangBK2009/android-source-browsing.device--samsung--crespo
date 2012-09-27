@@ -36,10 +36,10 @@ source ../../../common/generate-factory-images-common.sh
 source ../../../common/clear-factory-images-variables.sh
 PRODUCT=sojua
 DEVICE=crespo
-BUILD=403059
-VERSION=jro03e
+BUILD=477516
+VERSION=jzo54i
 SRCPREFIX=signed-
 RADIOSRC=radio.uc.img
 BOOTLOADER=i9020xxlc2
-RADIO=i9020uckj1
-#source ../../../common/generate-factory-images-common.sh
+RADIO=i9020uclh1
+source ../../../common/generate-factory-images-common.sh
