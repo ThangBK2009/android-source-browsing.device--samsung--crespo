@@ -43,3 +43,14 @@ RADIOSRC=radio.uc.img
 BOOTLOADER=i9020xxlc2
 RADIO=i9020uclh1
 source ../../../common/generate-factory-images-common.sh
+
+source ../../../common/clear-factory-images-variables.sh
+PRODUCT=sojuk
+DEVICE=crespo
+BUILD=403059
+VERSION=jro03e
+SRCPREFIX=signed-
+RADIOSRC=radio.uc.img
+BOOTLOADER=i9020xxlc2
+RADIO=m200krkc1
+source ../../../common/generate-factory-images-common.sh
