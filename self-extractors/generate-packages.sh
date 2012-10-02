@@ -45,6 +45,7 @@
 # 398337 = JRO03C
 # 405518 = JRO03H
 # 438695 = JRO03R
+# 481723 = JZO54J
 # end jb-dev
 BRANCH=jb-dev
 if test $BRANCH=ics-mr1
@@ -54,8 +55,8 @@ then
 fi # ics-mr1
 if test $BRANCH=jb-dev
 then
-  ZIP=soju-ota-438695.zip
-  BUILD=jro03r
+  ZIP=soju-ota-481723.zip
+  BUILD=jzo54j
 fi # jb-dev
 ROOTDEVICE=crespo
 DEVICE=crespo
