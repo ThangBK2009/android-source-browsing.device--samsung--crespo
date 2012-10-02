@@ -21,12 +21,13 @@
 # 398337 = JRO03C
 # 403059 = JRO03E
 # 477516 = JZO54I
+# 485486 = JZO54K
 
 source ../../../common/clear-factory-images-variables.sh
 PRODUCT=soju
 DEVICE=crespo
-BUILD=477516
-VERSION=jzo54i
+BUILD=485486
+VERSION=jzo54k
 SRCPREFIX=signed-
 RADIOSRC=radio.xx.img
 BOOTLOADER=i9020xxlc2
@@ -36,8 +37,8 @@ source ../../../common/generate-factory-images-common.sh
 source ../../../common/clear-factory-images-variables.sh
 PRODUCT=sojua
 DEVICE=crespo
-BUILD=477516
-VERSION=jzo54i
+BUILD=485486
+VERSION=jzo54k
 SRCPREFIX=signed-
 RADIOSRC=radio.uc.img
 BOOTLOADER=i9020xxlc2
