@@ -51,7 +51,7 @@ DEVICE=crespo
 BUILD=403059
 VERSION=jro03e
 SRCPREFIX=signed-
-RADIOSRC=radio.uc.img
+RADIOSRC=radio.kr.img
 BOOTLOADER=i9020xxlc2
 RADIO=m200krkc1
 source ../../../common/generate-factory-images-common.sh
